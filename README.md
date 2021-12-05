@@ -1,8 +1,6 @@
-# emoji-cheat-sheet
+# GitHub  -  Emoji
 
-[![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
-
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com).
+Esta folha de dicas é gerada automaticamente a partir de [GitHub Emoji API](https://api.github.com/emojis) e [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com).
 
 ## Table of Contents
 
